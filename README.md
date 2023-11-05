@@ -1,7 +1,7 @@
 # Network Vulnerability Scanning Tool
 
 <!-- ![NVST](./assets/nvst.png) -->
-<img src="./assets/nvst.png" alt="NVST" width="200">
+<img src="./assets/nvst.png" alt="NVST" width="400">
 
 NVST is a Python-based script that simplifies the process of network scanning. It integrates with tools like `nikto`, `gobuster`, and `enum4linux` to provide a comprehensive view of potential vulnerabilities in a network.
 
